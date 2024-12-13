@@ -22,9 +22,13 @@ Tools used: Radon, Cohesion.
 
 
 **Research Questions**
+
 RQ1: Relationship between architectural smells and cohesiveness across project sizes.
+
 RQ2: Impact of Radon-detected smells on project maintainability.
+
 RQ3: How architectural smells evolve over time.
+
 RQ4: Predict defect rates and code churn using cohesion and Radon data.
 
 
