@@ -35,4 +35,6 @@ RQ4: Predict defect rates and code churn using cohesion and Radon data.
 **Results & Discussion**
 Preliminary findings suggest smaller projects exhibit higher frequencies of architectural smells like Feature Envy. The study also explores the impact of these smells on software evolution and maintainability.
 
+The Cohesion_Metrics.zip folder has 9 projects cohesion reports and Siva_Radon_Metrics.zip has metrics related to code smells.
+
 
